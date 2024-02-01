@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other generic Mac exclusions
+.DS_Store
+.vscode
